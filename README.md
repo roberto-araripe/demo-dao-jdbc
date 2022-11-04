@@ -4,5 +4,18 @@ This is one program for identification and registred of departmens users for com
 
 ![APM](https://img.shields.io/apm/l/demo)
 
- You can insert datas for updating the configuration initial. 
+ In this version demo it's possible insert, delete, change datas for updating the configuration necessary. 
  For exemple: Id, name, email, birthdate, base salary and department.
+ 
+## technologies used
+ 
+Java
+
+Spring Boot
+
+JPA / Hibernte
+
+Maven
+
+Postman
+
